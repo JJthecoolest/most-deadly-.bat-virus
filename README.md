@@ -1,0 +1,1 @@
+This file is extremely dangerous and u shouldn't open it on ur main computer please do it on a virtual machine and have a snapshot. Please do not send this to people to try to be mean, I do not encourage this being sent to someone so that their computer breaks. It could cause the following: 1. Permanant motherboard damage. 2. Permanant cpu damage.
